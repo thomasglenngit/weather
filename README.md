@@ -8,7 +8,7 @@
 
 
 
-* clone file from my repo: https://github.com/thomasglenngit/galacticAge.git
+* clone file from my repo: https://github.com/thomasglenngit/weather.git
 * Using Visual Studio Code, (which can be downloaded here: https://code.visualstudio.com/),
 * Open VS Code and select, "Add Folder to Workspace".
 * Select "weather - master" from the "downloads" file.
