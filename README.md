@@ -38,5 +38,5 @@ _Feel free to reach out to me re: this repo or others: github.com/thomasglenngit
 
 
 ### License
-Copyright (c) 2020, Thomas Glenn
-License: MIT This software is licensed under the MIT license.
+_Copyright (c) 2020, Thomas Glenn
+_License: MIT This software is licensed under the MIT license.
