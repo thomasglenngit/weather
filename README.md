@@ -8,7 +8,15 @@
 
 
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* clone file from my repo: https://github.com/thomasglenngit/galacticAge.git
+* Using Visual Studio Code, (which can be downloaded here: https://code.visualstudio.com/),
+* Open VS Code and select, "Add Folder to Workspace".
+* Select "weather - master" from the "downloads" file.
+* Once open in VS Code, open a new terminal and run Node Package Manager with the following commands in the terminal:
+* npm install
+* npm run build
+* Open the files "weather.js" to see the functionality code.
+* Open the file "project.tests.js" and type into the terminal "npm run test" to see the tests which have been run on this code.
 
 ## Known Bugs
 
@@ -22,8 +30,12 @@ _Feel free to reach out to me re: this repo or others: github.com/thomasglenngit
 
 * .Html
 * css
+* JavaScript
 * WebPack
-* 
+* Node.js
+* VScode
+* .git
+
 
 ### License
 
