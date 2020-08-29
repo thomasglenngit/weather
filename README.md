@@ -1,4 +1,4 @@
-<h1 align='center'><img width='900' height='450' src='https://coding-assets.s3.us-west-2.amazonaws.com/hero_images/NewFavoriteThings.jpg'><br>
+<h1 align='center'><img width='900' height='450' src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stormclouds.jpg/1200px-Stormclouds.jpg'><br>
 
 
 **<h1 align = 'center'>Weather**
