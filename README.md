@@ -7,7 +7,7 @@
 *<h2 align ='center'>An application exercise through the Epicodus School to demonstrate practical knowledge of Webpack, 8.17.2020*
 
 
-<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a></h3>
+<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a> •<a href='#cloning'> Cloning</a></h3>
 
 
 <h3 align='center'>by Thomas Glenn</h3>
@@ -15,6 +15,20 @@
 # **REQUIREMENTS**
 
 # **SETUP**
+
+## **CLONING**
+
+* Copy the repo link as shown in the image below
+
+![cloning](https://coding-assets.s3-us-west-2.amazonaws.com/img/clone.gif 'How to clone repo')
+
+* Paste the link in the field provided by VsCode as thown in the image below
+
+* You will be prompted to open the directory once you have cloned it. Select 'open'
+
+![cloning](https://coding-assets.s3-us-west-2.amazonaws.com/img/clone-github2.gif 'Cloning from Github within VSCode')
+
+<br>
 
 # **TECHNOLOGIES USED**
 
@@ -41,3 +55,4 @@ _[Visual Studio Code](https://code.visualstudio.com/)_
 ![alt text][logo]
 
 [logo]: https://img.shields.io/bower/l/bootstrap 'MIT License'
+
