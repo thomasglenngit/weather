@@ -1,43 +1,43 @@
-# _Weather_
-
-#### _An application exercise through the Epicodus School to demonstrate practical knowledge of Webpack, 8.17.2020_
-
-#### By _**Thomas Glenn**_
-
-## Setup/Installation Requirements
+<h1 align='center'><img width='900' height='450' src='https://coding-assets.s3.us-west-2.amazonaws.com/hero_images/NewFavoriteThings.jpg'><br>
 
 
-
-* clone file from my repo: https://github.com/thomasglenngit/weather.git
-* Using Visual Studio Code, (which can be downloaded here: https://code.visualstudio.com/),
-* Open VS Code and select, "Add Folder to Workspace".
-* Select "weather - master" from the "downloads" file.
-* Once open in VS Code, open a new terminal and run Node Package Manager with the following commands in the terminal:
-* npm install
-* npm run build
-* Open the files "weather.js" to see the functionality code.
-* Open the file "project.tests.js" and type into the terminal "npm run test" to see the tests which have been run on this code.
-
-## Known Bugs
-
-_No known bugs_
-
-## Support and contact details
-
-_Feel free to reach out to me re: this repo or others: github.com/thomasglenngit_
-
-## Technologies Used
-
-* .Html
-* css
-* JavaScript
-* WebPack
-* Node.js
-* VScode
-* .git
+**<h1 align = 'center'>Weather**
 
 
-### License
-Copyright (c) 2020, Thomas Glenn
+*<h2 align ='center'>An application exercise through the Epicodus School to demonstrate practical knowledge of Webpack, 8.17.2020*
 
-License: MIT This software is licensed under the MIT license.
+
+<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a></h3>
+
+
+<h3 align='center'>by Thomas Glenn</h3>
+
+# **REQUIREMENTS**
+
+# **SETUP**
+
+# **TECHNOLOGIES USED**
+
+_[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)_
+
+_[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)_
+
+_[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)_
+
+_[Webpack](https://webpack.js.org/)_
+
+_[Visual Studio Code](https://code.visualstudio.com/)_
+
+<br>
+
+# **INSTALL**
+
+# **❤️Contributors**
+
+<br>
+
+<br>
+
+![alt text][logo]
+
+[logo]: https://img.shields.io/bower/l/bootstrap 'MIT License'
