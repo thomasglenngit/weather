@@ -46,8 +46,6 @@ _[Visual Studio Code](https://code.visualstudio.com/)_
 
 # **INSTALL**
 
-# **❤️Contributors**
-
 <br>
 
 <br>
